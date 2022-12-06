@@ -1,0 +1,15 @@
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/LINQ/LINQEruption/bin/Debug/net6.0/LINQEruption
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/LINQ/LINQEruption/bin/Debug/net6.0/LINQEruption.deps.json
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/LINQ/LINQEruption/bin/Debug/net6.0/LINQEruption.runtimeconfig.json
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/LINQ/LINQEruption/bin/Debug/net6.0/LINQEruption.dll
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/LINQ/LINQEruption/bin/Debug/net6.0/LINQEruption.pdb
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/LINQ/LINQEruption/obj/Debug/net6.0/LINQEruption.csproj.AssemblyReference.cache
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/LINQ/LINQEruption/obj/Debug/net6.0/LINQEruption.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/LINQ/LINQEruption/obj/Debug/net6.0/LINQEruption.AssemblyInfoInputs.cache
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/LINQ/LINQEruption/obj/Debug/net6.0/LINQEruption.AssemblyInfo.cs
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/LINQ/LINQEruption/obj/Debug/net6.0/LINQEruption.csproj.CoreCompileInputs.cache
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/LINQ/LINQEruption/obj/Debug/net6.0/LINQEruption.dll
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/LINQ/LINQEruption/obj/Debug/net6.0/refint/LINQEruption.dll
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/LINQ/LINQEruption/obj/Debug/net6.0/LINQEruption.pdb
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/LINQ/LINQEruption/obj/Debug/net6.0/LINQEruption.genruntimeconfig.cache
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/LINQ/LINQEruption/obj/Debug/net6.0/ref/LINQEruption.dll
